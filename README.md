@@ -8,6 +8,10 @@ This project focuses on detecting overfishing activities using a combination of 
 - **Visualization**: Provides detailed visualizations of predictions, metrics, and data trends.
 - **Cross-Validation**: Implements k-fold cross-validation to evaluate model performance.
 
+
+![Image](https://github.com/user-attachments/assets/47911a25-73ec-4aa8-b975-e9c2bfe1e597)
+
+
 ## **Project Structure**
 - **data/**: Contains datasets used in the project.
   - **satellite/**: Directory for satellite imagery data.
